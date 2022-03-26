@@ -3,4 +3,7 @@ import numpy as np
 def sum(a, b):
   return a+b
 
-print(sum(2,3))
+def my_print():
+  print("Git")
+
+my_print()
