@@ -1,6 +1,6 @@
 import numpy as np
 
-def my_print():
-  print("Git")
+def add(a, b):
+  return a+b
 
-my_print()
+print(add(2, 3))
